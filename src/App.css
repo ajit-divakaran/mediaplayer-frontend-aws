@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Reckless-Neue';
+    src: url('../public/Fonts/RecklessNeue-Light.woff');
+}
+
+*{
+ background-color:rgb(39, 33, 33);
+ color:white;
+ font-family: 'Reckless-Neue';
+
+}
